@@ -1,0 +1,307 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+.full-width{
+    width: 100%;
+    
+    
+  }
+  .nav{
+    background-color: #5385c1;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+  
+  .inner{
+      width: 1280px;
+      margin: 0 auto; 
+         
+  }
+  .logo{
+      display: inline-block;
+      font-weight: bold;
+      color: white;
+      padding: 14px 0;
+  } 
+  .navigation ul li{
+      display: inline-block;
+      margin: 0px 5px; 
+      color: white;
+      padding: 14px 0;
+     
+  }
+  
+  .navigation ul{
+    margin: 0;
+  
+  }
+  
+  .actions{
+    list-style: none;
+    padding: 0;
+  }
+  .navigation{
+      float: right;
+  }
+.kocka1{
+    width:100%;
+
+}
+.naslov h1{
+    text-align: center;
+    color: #5385c1;
+    margin-top: 100px;
+}
+.naslov p{
+    text-align: center;
+    color: #9a9a9a;
+}
+.kocka2{
+    width: 100%;
+}
+.kocka2 p{
+    text-align: left;
+    color: #9a9a9a;
+    margin-top: 50px;
+    padding: 10px;
+
+}
+.dvetekocki{
+    width: 100%;
+}
+.kockicka1{
+    width:48%;
+    
+    margin-top:50px;
+    margin-right: 4%;
+    float: left;
+    margin-bottom: 50px;
+    
+}
+.kockicka2{
+    width:48%;
+    margin-bottom: 50px;
+    
+    margin-top:50px;
+    
+    float: left;
+}
+
+.kockicka1 h2{
+    color: #5385c1;
+}
+.kockicka1 p{
+    text-align: left;
+    color: #9a9a9a;
+}
+button{
+    
+        background-color: #5385c1;
+        color: white;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+        border: none;
+    
+}
+
+.kockicka2 h2{
+    color: #5385c1;
+
+}
+.kockicka2 p{
+    text-align: left;
+    color: #9a9a9a;
+}
+.full-width1{
+    width: 100%;
+}
+
+.full-width1 .inner{
+    border-top:1px solid #9a9a9a;
+}
+
+.footer_text{
+    
+        color: #9a9a9a;
+        font-size: 13px;
+        display: inline;
+        padding: 10px;
+    
+}
+.footer_text p{
+    display: inline-block;
+}
+.footer_list ul li{
+    display: inline-block;
+    margin: 0px 5px; 
+    color: #9a9a9a;
+}
+.footer_list ul li a{
+    text-decoration: none;
+    color:#5385c1;
+}
+.footer_list{
+    float: right;
+    
+    display: inline;
+   
+  
+}
+img{
+    width: 100%;
+}
+@media screen and (max-width:768px){
+
+   
+}
+
+@media(max-width:768px) 
+{
+
+    .inner{
+        max-width: 85%;
+        margin: 0 auto;
+    }
+    .navigation-wrap{
+        width: 85%;
+        margin: 0 auto;
+        font-size:xx-small; /*proveri pak */
+    }
+
+
+    .navigation{
+        display: none;
+       } 
+    
+    .hero_content_wrap{
+    text-align: center;
+    padding: 10% 0% 10% 0%;
+    font-size: 36px;
+}
+.hero_content_wrap h1{
+    font-weight: 100;
+    font-size: 23px;
+    margin-bottom: 16px;
+}
+.hero_content_wrap p{
+    font-size: 16px;
+}
+.header_section2{
+    padding-top: 14px;
+}
+    .blue-background{
+     width: 100%;
+     padding:0%;
+     } 
+       .bg-image{   
+        width: 100%;
+    }
+.section2 h3{
+    font-size: medium;
+}
+.section2 p{
+    font-size: small;
+}
+    .box1{
+    float: none;
+    width: 100%;
+    padding-right:0% ;
+    border-bottom: 1px solid #9a9a9a;
+    border-right: none;
+    text-align: center;
+
+}
+.box2{
+    float: none;
+    width: 100%;
+    padding-left:0% ;
+    border-bottom: 1px solid #9a9a9a;
+    border-right: none;
+    text-align: center;
+
+}
+.box3{
+    padding-left: 0%;
+    float: none;
+    width: 100%;
+    text-align: center;
+
+}
+.profile{
+    width: 100%;
+    
+}
+.profiles{
+    padding: 10% 0;
+}
+.button{
+    width: 100%;
+    display: inherit;
+    padding: 12px 0px;
+    text-align: center;
+    margin-bottom: 32px;
+}
+.profile1{
+   float:none;
+   border-top: 0px;
+   margin-right: 0%;
+   margin-bottom: 34px;
+}
+.profile2{
+    float:none;
+    margin:0%;
+    border-top: 0px;
+    margin-right: 0%;
+    margin-bottom: 34px;
+}
+
+.profile3{
+    float:none;
+    margin:0%;
+    border-top: 0px;
+    margin-bottom: 34px;
+}
+.profile4{
+    float:none;
+    margin-left: 0%;
+    border-top: 0px;
+    margin-right: 0%;
+}
+.images{
+    width:100%;
+}
+.images img{
+    width: 100%;
+}
+.img_art_1{
+    float: none;
+    text-align: center;
+   
+    margin: 0 auto;
+
+}
+.img_art_2{
+    float: none;
+    margin-left: 0%;
+    text-align: center;
+}
+
+
+.footer_text p{
+    display: inline-block;
+}
+.footer_list ul li{
+    
+    margin: 0px 5px; 
+
+}
+
+.footer_list{
+    float: none;
+  
+}
+}
